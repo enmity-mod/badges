@@ -1,5 +1,8 @@
 {
   "name": "Enmity Developer",
   "id": "dev",
-  "url": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev.png"
+  "url": {
+    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev.png",
+    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/dev-light.png"
+  }
 }
