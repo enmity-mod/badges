@@ -1,0 +1,8 @@
+{
+  "name": "Enmity Supporter",
+  "id": "supporter",
+  "url": {
+    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/supporter.png",
+    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/supporter.png"
+  }
+}
