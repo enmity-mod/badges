@@ -1,8 +1,8 @@
 {
-  "name": "Enmity Staff",
-  "id": "staff",
-  "url": {
-    "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/staff.png",
-    "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/staff.png"
-  }
+   "name": "Enmity Staff",
+   "id": "staff",
+   "url": {
+      "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/staff.png",
+      "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/staff.png"
+   }
 }
