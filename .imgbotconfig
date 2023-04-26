@@ -1,4 +1,4 @@
 {
     "aggressiveCompression": "true", 
-    "minKBReduced": 0,    
+    "minKBReduced": 1000,    
 }
