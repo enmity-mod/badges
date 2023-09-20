@@ -1,8 +1,8 @@
 {
-   "name": "AnotherLife",
-   "id": "1065295463089180763",
-   "url": {
-      "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1065295463089180763-dark.gif",
-      "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1065295463089180763-light.png"
-   }
+	"name": "AnotherLife",
+	"id": "1065295463089180763",
+	"url": {
+		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1065295463089180763-dark.gif",
+		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1065295463089180763-light.png"
+	}
 }

@@ -1,8 +1,8 @@
 {
-   "name": "Enmity Contributor",
-   "id": "contributor",
-   "url": {
-      "dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/contributor.png",
-      "light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/contributor.png"
-   }
+	"name": "Enmity Contributor",
+	"id": "contributor",
+	"url": {
+		"dark": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/contributor.png",
+		"light": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/contributor.png"
+	}
 }

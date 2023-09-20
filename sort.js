@@ -18,6 +18,17 @@ for (const user of users) {
 		return order.indexOf(a) - order.indexOf(b);
 	});
 
-	fs.writeFileSync(user, JSON.stringify(sorted), 'utf-8');
+	fs.writeFileSync(user, stringify(sorted), 'utf-8');
 	console.log(`Sorted ${user}`);
+}
+
+function stringify(obj) {
+	let result = JSON.stringify(obj, null, 2); // stringify, with line-breaks and indents
+
+	result = result.replace(/^ +/gm, ' '); // remove all but the first space for each line
+	result = result.replace(/\n/g, ''); // remove line-breaks
+	result = result.replace(/{ /g, '{').replace(/ }/g, '}'); // remove spaces between object-braces and first/last props
+	result = result.replace(/\[ /g, '[').replace(/ \]/g, ']'); // remove spaces between array-brackets and first/last items
+
+	return result;
 }
